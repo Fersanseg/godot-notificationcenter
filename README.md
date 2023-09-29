@@ -1,6 +1,6 @@
 # godot-notificationcenter
 A GDScript implementation of the Notification Center pattern.
-It's simply a direct translation from C# to GDScript of the excellent Notification Pattern implementation by Jonathan Parham in his The Liquid Fire blog. Here is the original work: [Original Implementation]([https://link-url-here.org](http://theliquidfire.com/2015/06/15/better-than-events/)
+It's simply a direct translation from C# to GDScript of the excellent Notification Pattern implementation by Jonathan Parham in his The Liquid Fire blog. Here is the original work: [Original Implementation]([http://theliquidfire.com/2015/06/15/better-than-events/](http://theliquidfire.com/2015/06/15/better-than-events/)
 
 
 # License
